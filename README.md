@@ -5,5 +5,5 @@
 # - tanult modulok: random, tkinter
 # - saját modulok: nevek, osztaly
 # függvények:
-# - main.py: nevkiiras
-# - osztaly.py: __init__; veznevgenerator; nevgenerator; f_vagy_l
+# - main.py: nevkiiras()
+# - osztaly.py: __init__(self); veznevgenerator(self); nevgenerator(self); f_vagy_l(self)
